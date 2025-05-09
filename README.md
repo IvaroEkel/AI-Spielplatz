@@ -1,7 +1,6 @@
-# An alle die sich angemeldet haben: Ihr habt euren Platz beim AI Spielplatz. Wenn du nicht da warst am Montag: nicht schlimm!
-# Treff immer 15min vor Beginn am Eingang Uferstr. 11 (Löhrs Carré) 🧭 [Karte](https://maps.app.goo.gl/czQn7WtLkHMYzHcbA) 🙌
-
-# 🚨 WICHTIG! Wenn du dich bereits registriert hast, schick uns bitte eine Nachricht über das [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) mit deiner Email. Anschließend senden wir dir mehr Infos. Ansonsten findet ihr alle Infos zu Startzeit(en) und Treffpunkt unten. 
+# Thanks to all the attendees. That was an amazing workshop-week! Thanks for being part of it and also congratulations to you regarding your great projects! 🙌
+## Feel free to send the Reports and all you want to share to one of the mentors and also giving allowance to us to post your work (github, website, social media).
+## Also feel free to reach out at any time if you have any question, request or if we can help you out with sth. 🤗
 
 # AI Spielplatz
 
