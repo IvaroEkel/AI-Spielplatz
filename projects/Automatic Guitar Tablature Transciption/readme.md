@@ -1,3 +1,3 @@
-### Automatic Guitar Tablature Transciption
+### Automatic Guitar Tablature Transcription
 
 ©️ Kearby Brown
