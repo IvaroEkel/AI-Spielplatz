@@ -4,7 +4,7 @@ You can find the reports of all projects in [/projects](https://github.com/Ivaro
 
 🎤 [AI Voice Chat Agent on Raspberry Pi](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects/AI%20Voice%20Chat%20Agent%20on%20Raspberry%20Pi) ©️ Andreh Samaan
 
-🎼 [Automatic Guitar Tablature Transciption](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects/Automatic%20Guitar%20Tablature%20Transciption) ©️ Kearby Brown
+🎼 [Automatic Guitar Tablature Transcription](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects/Automatic%20Guitar%20Tablature%20Transciption) ©️ Kearby Brown
 
 🚗 [Car Model Recognition using Deep Learning](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects/Car%20Model%20Recognition%20using%20Deep%20Learning) ©️ Nikolay Sidorov
 
