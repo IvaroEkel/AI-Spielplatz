@@ -1,4 +1,4 @@
-### Thanks to all the attendees. That was an amazing workshop-week! Thanks for being part of it and also congratulations to you regarding your great projects! 🙌
+### Thanks to all the attendees. That was an amazing workshop-week! Thanks for being part of it. 🙌
 # 📝 Reports
 You can find the reports of all projects in [/projects](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects)
 
@@ -10,7 +10,11 @@ You can find the reports of all projects in [/projects](https://github.com/Ivaro
 
 ☕ [Voice-Controlled Coffee Machine with Raspberry Pi and Whisper](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects/Voice-Controlled%20Coffee%20Machine%20with%20Raspberry%20Pi%20and%20Whisper) ©️ Lena Kittel, Alicia Diem
 
-##
+###  Congratulations regarding your great projects! 👏
+
+____________________
+
+<br>
 
 ## AI Spielplatz (Ed. #1)
 
