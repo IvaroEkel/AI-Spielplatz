@@ -1,2 +1,2 @@
-###Voice-Controlled Coffee Machine with RaspberryPi and Whisper
+### Voice-Controlled Coffee Machine with RaspberryPi and Whisper
 ©️ Lena Kittel, Alicia Diem
