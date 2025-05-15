@@ -1,8 +1,18 @@
-# Thanks to all the attendees. That was an amazing workshop-week! Thanks for being part of it and also congratulations to you regarding your great projects! 🙌
-## Feel free to send the Reports and all you want to share to one of the mentors and also giving allowance to us to post your work (github, website, social media).
-## Also feel free to reach out at any time if you have any question, request or if we can help you out with sth. 🤗
+### Thanks to all the attendees. That was an amazing workshop-week! Thanks for being part of it and also congratulations to you regarding your great projects! 🙌
+# 📝 Reports
+You can find the reports of all projects in [/projects](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects)
 
-# AI Spielplatz
+🎤 [AI Voice Chat Agent on Raspberry Pi](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects/AI%20Voice%20Chat%20Agent%20on%20Raspberry%20Pi) ©️ Andreh Samaan
+
+🎼 [Automatic Guitar Tablature Transciption](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects/Automatic%20Guitar%20Tablature%20Transciption) ©️ Kearby Brown
+
+🚗 [Car Model Recognition using Deep Learning](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects/Car%20Model%20Recognition%20using%20Deep%20Learning) ©️ Nikolay Sidorov
+
+☕ [Voice-Controlled Coffee Machine with Raspberry Pi and Whisper](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects/Voice-Controlled%20Coffee%20Machine%20with%20Raspberry%20Pi%20and%20Whisper) ©️ Lena Kittel, Alicia Diem
+
+##
+
+## AI Spielplatz (Ed. #1)
 
 Willkommen im **AI Spielplatz**, einem Workshop für AI-Interessierte. Du wolltest schon immer einmal etwas mit KI machen aber wusstest nicht, wo du anfangen solltest? Dann ist dieser Workshop genau das Richtige für Dich! 
 Beim AI Spielplatz hast du die Möglichkeit dich grundlegend und praktisch anhand eines (eigenen) Projekts in das Thema einzuarbeiten. Dies hier ist Dein Tutorial-Kit, das Dich bei der Umsetzung von Projekte(n) in unserem Workshop unterstützen wird. Besucht uns im **Mai 2025** am **ScaDS.AI**. Es folgen alle wichtigen Infos:
@@ -10,7 +20,7 @@ Beim AI Spielplatz hast du die Möglichkeit dich grundlegend und praktisch anhan
 [Unser Github-repository](https://github.com/IvaroEkel/AI-Spielplatz/tree/main).
 (Scroll down for the English version)
 
-## 🚀 Was Du lernen wirst
+### 🚀 Was Du lernen wirst
 
 - **KI-Modelle** – Lerne, wie Du Text generieren und Funktionen aufrufen kannst mit KI.
 
@@ -24,21 +34,21 @@ Beim AI Spielplatz hast du die Möglichkeit dich grundlegend und praktisch anhan
 
 - **Modelltraining** – Lerne beim Workshop, wie Du ein Modell für einen (eigenen) Anwendungsfall trainierst.
 
-## 📍 Der Veranstaltungsort ScaDS.AI Dresden/Leipzig
+### 📍 Der Veranstaltungsort ScaDS.AI Dresden/Leipzig
 
 Der AI Spieplatz findet am **ScaDS.AI Leipzig** statt, dem KI-Forschungszentrum der **Universität Leipzig** (und TU Dresden). Der Raum für den Workshop wird noch festgelegt und wir werden in Kürze weitere Details bekannt geben.
 
-## 📅 Workshop-Details
+### 📅 Workshop-Details
 
 - **📆 Datum und Uhrzeit**: 5. bis 9. Mai 2025. [Tagesplan auf der Ai Spielplatz Eventseite](https://scads.ai/event/ai-spielplatz/)
 - **📍 Ort**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig. Eingang von Uferstraße 11, 5.OG (Raum: Bistumshöhe)
 - **🎟️ Anmeldung**: Kostenlos.
 - **🗣 Sprachen**: Deutsch und Englisch.
 
-## 🔥 Schaut euch unser Warming-Up-Material an!
+### 🔥 Schaut euch unser Warming-Up-Material an!
 Hier findet ihr einige spannende Inspirationsquellen und könnt euch ein Bild vom Stil des Workshops machen, bevor ihr mit den Basics loslegt 📚. [Zum Warming-Up-Material 🔥](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/Warming-Up).
 
-## 🎤 Lernt die Mentoren kennen
+### 🎤 Lernt die Mentoren kennen
 
 | Mentor | Kontakt | Biografie |
 |---------|---------|------|
@@ -46,7 +56,7 @@ Hier findet ihr einige spannende Inspirationsquellen und könnt euch ein Bild vo
 | **Oliver** | [welz@informatik.uni-leipzig.de](mailto:welz@informatik.uni-leipzig.de) | Wissenschaftlicher Mitarbeiter (Team Living Lab) & KI-Enthusiast :) |
 | [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Wissenschaftlicher Mitarbeiter und Masterstudent |
 
-## 🧠 Aufgeregt? Bereit, mit KI zu spielen?
+### 🧠 Aufgeregt? Bereit, mit KI zu spielen?
 
 ### Anmeldung ist bereits geschlossen
 
@@ -56,21 +66,21 @@ Du bist herzlich eingeladen, dich uns anzuschließen und Teil des Workshops zu s
 
 oder klicke [**hier**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
 
-# 🤔 Fragen?
+## 🤔 Fragen?
 Wenn Du Fragen hast, lies gerne unsere [FAQ](https://github.com/IvaroEkel/AI-Spielplatz/blob/main/FAQ.md). Wenn Deine Frage nicht dabei ist, kannst Du gerne unser [Kontaktformular](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M) verwenden.
 
 <br>
 </br>
 
 
-# AI Spielplatz
+## AI Spielplatz (Ed. #1)
 
 Welcome to the **AI Spielplatz**, a workshop for AI enthusiasts. Have you always wanted to do something with AI but didn't know where to start? Then this workshop is just right for you! 
 The AI Spielplatz gives you the opportunity to familiarize yourself with the topic both fundamentally and practically by means of an (own) project. This is your tutorial kit that will support you in the implementation of projects in our workshop. Visit us in **May 2025** at **ScaDS.AI**. All important information will follow:
 
 [Our Github repository](https://github.com/IvaroEkel/AI-Spielplatz/tree/main)
 
-## 🚀 What You'll Learn
+### 🚀 What You'll Learn
 
 - **AI Models** - Learn how to generate text and call functions.
 - **Best Practices** - Learn best practices for building e.g. with GPT models.
@@ -79,21 +89,21 @@ The AI Spielplatz gives you the opportunity to familiarize yourself with the top
 - **Visual Computing** - Learn how to detect objects.
 - **Model Training** - Learn how to train a model for your use case.
 
-## 📍 The Venue ScaDS.AI Dresden/Leipzig
+### 📍 The Venue ScaDS.AI Dresden/Leipzig
 
 The AI Spielplatz will be held at **ScaDS.AI Leipzig**, the AI research center of **Universität Leipzig** (and TU Dresden). The room for the workshop is still being decided, and we will provide more details soon.
 
-## 📅 Workshop Details
+### 📅 Workshop Details
 
 - **📆 Date & Time**: May 5th to 9th, 2025. The daily schedule: [Ai Spielplatz Eventsite](https://scads.ai/event/ai-spielplatz/)
 - **📍 Location**: [ScaDS.AI](https://maps.app.goo.gl/zb5w6eYDrzKAqs467), Leipzig. Entrance Uferstraße 11, 5. Floor (Room: Bistumshöhe)
 - **🎟️ Registration**: Free.
 - **🗣 Languages**: English and German. 
 
-## 🔥 Check our Warming-Up material! 
+### 🔥 Check our Warming-Up material! 
 Here you can find some exciting sources of inspiration and get an idea of the style of the workshop, before entering the Basics 📚. [To the Warming-up material 🔥](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/Warming-Up).
 
-## 🎤 Meet Your Mentors
+### 🎤 Meet Your Mentors
 
 | Mentor  | Contact  | Bio  |
 |---------|---------|------|
@@ -102,7 +112,7 @@ Here you can find some exciting sources of inspiration and get an idea of the st
 | [**Natasha**](https://natashahrycan.github.io/) | [natasha.hrycan@uni-leipzig.de](mailto:natasha.hrycan@uni-leipzig.de) | Research assistant and master's student |
 
 
-## 🧠 Excited? Ready to play with AI? 
+### 🧠 Excited? Ready to play with AI? 
 
 ### Registration is already closed
 
@@ -113,7 +123,7 @@ You're welcome to join us, scan this QR code to register
 or click [**here**](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/embed/jLZZso4dKyeG8FScCifPJoM9)
 
 
-# 🤔 Questions?
+## 🤔 Questions?
 If you have any questions, check our [FAQ](https://github.com/IvaroEkel/AI-Spielplatz/blob/main/FAQ.md). If your question is not there, don't hesitate to use our [contact form](https://cloud.scadsai.uni-leipzig.de/index.php/apps/forms/s/rx6Ejbmqt9S6AcnXsXHopy9M).
 
 # Ready? Then let's go:
