@@ -8,6 +8,8 @@ You can find the reports of all projects in [/projects](https://github.com/Ivaro
 
 🚗 [Car Model Recognition using Deep Learning](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects/Car%20Model%20Recognition%20using%20Deep%20Learning) ©️ Nikolay Sidorov
 
+🛸 [Classifying conspiracy theories based on threads on ”Allmystery.de”](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects/Classifying%20conspiracy%20theories%20based%20on%20threads%20on%20%E2%80%9DAllmystery.de%E2%80%9D) ©️ Sebastian Müller
+
 ☕ [Voice-Controlled Coffee Machine with Raspberry Pi and Whisper](https://github.com/IvaroEkel/AI-Spielplatz/tree/main/projects/Voice-Controlled%20Coffee%20Machine%20with%20Raspberry%20Pi%20and%20Whisper) ©️ Lena Kittel, Alicia Diem
 
 ###  Congratulations regarding your great projects! 👏
